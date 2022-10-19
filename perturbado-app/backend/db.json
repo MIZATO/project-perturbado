@@ -13,6 +13,13 @@
       "price": "35",
       "chargedPrice": "",
       "id": 2
+    },
+    {
+      "name": "parafuso",
+      "amount": "10",
+      "price": "0.10",
+      "chargedPrice": "",
+      "id": 3
     }
   ]
 }

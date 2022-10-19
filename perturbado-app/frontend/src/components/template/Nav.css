@@ -17,3 +17,22 @@ aside.menu-area {
     background: linear-gradient(135deg, #e30707 0%, #da3232 100%);
     color: black;
 }
+
+@media (max-width: 768px) {
+    .menu {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .menu a {
+        display: inline;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .menu {
+        height: 100%;
+        justify-content: space-around;
+    }
+}

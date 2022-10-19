@@ -12,3 +12,10 @@ aside.logo img {
     overflow: hidden;
 
 }
+@media(max-width: 576px) {
+    aside.logo img {
+        margin-top: 1em;
+        height: 230px;
+        width: 350px;
+    }
+}
